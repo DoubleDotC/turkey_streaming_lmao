@@ -34,7 +34,7 @@ export default function Home() {
               playsInline
               poster="/turkish-landscape-with-traditional-architecture.jpg"
             >
-              <source src="/placeholder-video.mp4" type="video/mp4" />
+              <source src="/video.mp4" type="video/mp4" />
               {/* Placeholder content when video is not available */}
               <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
                 <div className="text-center">
